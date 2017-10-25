@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- Title--></title>
+        <author ref="#authorShortID"><!-- Author Name --></author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2017-04-26">April 26, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+         Scholastic Commentaries and Text Archive Project
+        </authority>
+        <availability status="free">
+          <p>Published under a
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt><?xml version="1.0" encoding="UTF-8"?>
+      <sourceDesc>
+        <listWit>
+          
+           <witness xml:id="G" n="Granion1519">Granion 1519</witness> 
+        
+        </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+     <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+     <editorialDecl>
+       <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+         guidelines for a critical edition.</p>
+     </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+     <listChange>
+       <change when="2017-04-08" status="draft" n="0.0.0">
+         <p>Created file for the first time.</p>
+       </change>
+     </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+
+      <div xml:id="starts-on">
+        <pb ed="#G" n="2-4"/><cb ed="#G" n="a"/><lb ed="#G" n="32"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jms2b-l2d1q2">
+        <p>
+          Secundo circa hanc primam distinctionem queritur: an mundus incepit esse: capto mundo pro toto universo deo secluso.
+        </p>
+        <p>
+          Pro solutione pono duas conclusiones, quarum prior est: mundus habuit originem. Probatur hec conclusio in lumine naturali utcumquam. hoc posuit pithagoras, et epicurus, ut plutarchus dicit in ii. lib. in placitis philosophorum astrologi hoc communius posuerunt. Et Adaro ii. Georgicorum inquorens, “non alios prima crescentis origine mundi illuxisse dies alium ve habuisse tenorem crediderim”. Licet Aristoteles in topicis exemplificando de probleumate neutro exemplificat de perpetuitate mundi, quia vidit in diebus eius probleuma: tamen a certo propesito de hac materia loquens posuit condictorium huius conclusionis, sed in hoc apparenter multum repugnavit sibi. probatio: constanter negavit infinitum tamquam magnitudine quam multitudine iii. phisicorum et primo de celo. et infiniti fuerunt homines secundum eum. et anima est immortalia ut in xliii dist. iiii. diximus. Ergo nunc est infinitus animarum numerus. iiii. politi. xiii. dicit homines a principio fuisse paucos, etiam philosophia fuisset infinites complete tradita ante dies eius. Secundum illud non concludit, stat quod scientia habuit originem: vel frequenter perisset. Aliter peremptorie hec conclusio probatur: Genesis.i. “in principium creavit deus celum et terram: hoc est naturam celestem et corruptibilem”; et Joannis i.: “omnia per ipsium facta sunt, et sine ipso factus est nichil”; et apocalipsis iiii: “tu enim creati omnia et propter voluntatem tuam et erant et creata sunt”; et secundi Machebeorum vii: “peto nate ut respicias ad celum et terram et ad omnia que in eis sunt: et intelligas quia ex nichilo facit illa deus”; et in articula fidei: “factorem celi et terre”.
+        </p>
+        <p>
+          Secunda conclusio: Decens erat que mundus haberem principium et originem. Probatur ita factum est a deo ex precendenti conclusione, et deus nichil indecens facit: cum sua voluntas est indeviabilis et prima regula ceterarum regularum regulativa. Secundo arguitur ad idem: ex mundi machina constructa ostendit bonitas sapientia et magnitudo opificis. Non fecit tugurium: non urbem solum, sed elementa magna cum mixtis in eis tot varios celos eccentricos et concentricos cum tot variis motibus ut vix ullum creatum ingenium (et si angelicum) pro millesima parte capere queat. In hoc cognoscitur opifex universi. Sed dicis, fide id credimus. Si fecisset eundem mundum ab eterno: bonie?tas sapitia et magnitudo fuisset ita bene nota. Preterea tertio arguitur: ex mundo fabricato ostenditur deus non egere creatura, et que in se solo est beatus. Poterant multi putare licet fecerit mundum ab eterno hoc fecit pro suo bono et tanquam ei conduceret quo ad aliquam perfectionem accidentalem: propterea non fecit ipsum ab eterno. Insuper ostenditur quod mere contingenter et libere mundum creaverit. Multi magni viri et theologie putant omne quod est de necessitate est, et si mundus fuisset ab eterno dixissent de necessitate est, in hoc ostenditur quod omnis creatura indigeat manutentia dei. Ex isto patet: licet deus fuit in tempore possibili quando nulla creatura fuit: in nullo tempore deus fuit quin in illo creatura fuit; nec deus fuit aliquando quin creatura fuerit: et hoc proprie capiendo tempus. Sed capiendo pro tempore vero vel imaginario aliter est dicendum. 
+        </p>
+        <p>
+          Contra istas conclusiones simul arguitur; indecens est deum ab eterno fuisse ociosum, sed hoc fuit ponendo deum ab eterno fuisse ante orbem conditum: igitur.
+        </p>
+        <p>
+          Secundo arguitur: deus semper fuit dominus, ergo semper erant creature, non  sole in omni tempore vero, sed imaginario. Cape mentem arguentis: tenet contra: deus non est dominus sine creatura: quia non est dominus sui. Antecedens patet per Augustinum xii. de civitate dei c. xv. dicentem “non audeo dicere deum aliquando dominum non fuisse”, et paul opost dicit: “semper fuerunt angeli”. 
+        </p>
+        <p>
+          Ad primum conceditur maior, sed nego minorem: Nullus dicitur ociosus nisi quem expedit et decet operari. Si homo dormitat secundum rectam rationem vel mentem a contemplatione ad tempus seponat, non propterea vocatur ociosus. Secundo: deus continuo operabantur se intelligendo et fruendo, et in hec erat sua beatitas infinita. Et pater produxit filium ab eterno, et ambo mutuo spiritus sanctus; et creaturarum idee erant in mente divina ab eterno. Ita intuebatur creaturam non existentem sicut existentem. omnia possibilia distinctissime ab eterno vidit, sua essentia est ei obiectum primarium et omnium representatium, et creatura est solum obiectum termiantivum intellectus divini que equaliter terminat sive sit sive non sit. Accipito analogiam de illo bono romano dicere solito: nunquam minus solus sum que cum solus sum. Ergo deum esse solum non argit eum ociosum.
+        </p>
+        <p>
+          Ad secundum argumentum concedo: que semper deus fuit dominus, hoc est[:] omni tempore vero. Et sic in quolibet tali fuerunt angeli. Sed capiendo tempus pro tempore vero et imaginiabili: ante orbis conditii principium: deus non fuit dominus. Dicit Augustinus v. de. Trin. c. ultimo “deus noiter ex tempore sit dominus”.
+        </p>
+        <p>
+          Tertio arguitur: quod est perfectio simpliciter convenit deo ab eterno; sed creare est perfectio simpliciter. Patet: non minoris perfectionis est creare quam posse creare. Actus non est perfectior potentia ix. metaphisice. Sed posse creare est perfectio simpliciter. Si deus non posset creare, non esset perfectus simpliciter.
+        </p>
+        <p>
+          Quarto arguitur: argumento maximini contra generationem in divinia: aut deus potuit et voluit producere mundum ab eterno, et si sic: conclusiones ambe sunt false; aut nec potuit nec voluit. aut voluit, sed non potuit. ergo fuit impotens. aut potuit, sed non voluit. ergo fuit invidus. Si ergo possem benefacere alicui sine iactura mea et non id faciens reputarer improbus. sic est de deo, igitur. 
+        </p>
+        <p>
+          Ad tertium responsum est in distinctione secunda quest ii. primi sent.
+        </p>
+        <p>
+          Ad quartum dicitur: deus poterat producere mundum antequam ipsum produxit, et non voluit ante producere. Est agens liberum, et libere sua voluntate se ad hoc determinavit. Nec sequitur propter ea que sit invidus. In deo non cadit invidia, ut patet per diffinitionem eius. Et si homo omittens bene facere alteri in casu peccet; non aut deus; quia homo est obligatus, deus autem nulli obligant. Inferior non potest leges imponere superiori.
+        </p>
+        <p>
+          Quinto arguitur ante creationem mundi verum erat dicere deus est, ergo deus erat in tempore. Tenet contra. Sic explicamus sensum istius: deus est, deus est in instanti, vel tempore p?nti: vl’ mo? (vlt. “vel tempore presenti vel momentus”?). Et Arist. primo Periherm. verbum consignificat tempus.
+        </p>
+        <p>
+          Sexto arguitur: Tempus non incepit esse nec primus motus localis. Ergo nec totus mundus habuit originem. Contra licquet. antes patet da primum motum localem, et sit circuitio primi mobilis gfa exempli. bene sequitur: nunc motus est, ergo prius motus erat: omne quod nunc movent prius movebatur. vi. phisicorum similiter arguitur de tempore quod primum dicis.
+        </p>
+        <p>
+          Ad quintum concedo que in mente divina verum erat dicere deus est, sed non sequitur quod verum erat dicere quod deus erat in tempore: capiendo tempus per aliquo extrinseco, ut in iiii. phisic. capitur nec bene explicatur convertibiliter per illam. Licet inter nos sic vulgariter explicemus. Ad illud quod est assumptum a philosopho alibi respondimus.
+        </p>
+        <p>
+          Ad sextum nego quod tempus et motus localis non incepit esse. Huiusmodi res sucessive quo ad esse et fieri inceperunt per ultimum instans non esse. Argumentum nichil aliud probat nisi quocumquam instanti intrinseco temporis vel motus dato verum est dicere: prius erat, quod concedimus.
+        </p>
+        <p>
+          Septimo arguitur vel deus voluntate antiqua antequam produxit mundum voluit producere mundum, vel voluntate nova. Si secundum, ergo in deo cadit mutatio, quod naturalis philosophia refugit. Si primum, ergo deus voluit ab eterno producere mundum, quia si in aliquo tempore vero vel imaginario voluit primo producere mundum, sequit in deo mutatio.
+        </p>
+        <p>
+          Octavo arguitur: non est possibile quod deus esset solus ante mundum, sed deus fuit sine principio. Ergo est mundus sine principio maior. Patet vel deus erat in una portione determinata imaginaria ubi hic mundus est, vel in toto loco in quo hic mundus est, vel in vacuo imagniario infinito. Non duo prima, cum nichil creatum erat, non erat ratio que esset potius ubi hic mundus est, vel porto huius mundi quam in alio loco possibili. Non tertium, tunc deus adhuc est in loco imaginario infinito. Et ubicunquam deus est potest creare locum. Ergo deus potest creare locum infinitum, quod non est concedendum.
+        </p>
+        <p>
+          Ad primum, concedo quod deus voluit producere mundum antequam ipsum produxerit volitione antiqua. Deus voluit ab eterno producere mundu, ut ly ab eterno determinet hoc verbum voluit. Falsa est ut determinet hoc complexum producere mundum. vel sic: deus ab eterno voluit producere mundum, sed non voluit producere per eterno in tempori denotatum eternitas volitionis in secunda denotatum eternitas voliti. u?n eadem voluntate qua deus vult rem non esse du?m non est vult eam esse post quam est: ita quod non cessat primum velle quamquis non sit amplius velle ut non sit. Ut dicit. aug. xii. de civ. dei c. xvii. sic dicit in deo non alteram precedentem altera subsequents mutavit aus sustulit voluntatem, sed una eademquam sempiterna et immutabili voluntate res quis condidit ut et prius non essent elegit quandiu non fuerunt: et ut posterius essent quo mo[?] esse ceperunt, quo sit: sed velle producere mundum sit necessarium, tamen non necessario est velle producere mundum. Prior pars patet: velle producere mundum est dei voluntas que neccessario est. secunda para patet: deus contingenter erat velle prodcere mundum, quodlibet creatura contingenter est a deo. Potuit tamen deus nolle producere mundum, sicut in fili: ab eterno predestinavit deus Jacob quem poterat non predestinare.
+        </p>
+        <p>
+          Et si dicas “quicquod deus poterat fieri, de necessitate fuit, sed nolle producere mundum potuit esse deus, igitur de necessitate fuit”, conceditur maior, sed distinguitur minor. Vel subiectum supponit pro eo quod fuit, et sic ipsa est false. vel pro eo potuit esse et sic concedo. Et ex hoc non sequitur conclusio illata. Sed hanc concedo, quod potuit esse nolle producere mundum de necessitate fuit deus, et est omnio similite sicut in materia de futuro contingenti de prescientia dei. Deus contingenter prescit an?rprem fore: et tamen illa prescia fuit ab eterno, et prescia dei respectu an?rpri fore est res necessaria, quia deus, quia quicquod est deus de necessitate est deus. ex his non sequitur que sit ulla mutatio in deo. Exemplum in me: ego volo nunc cras hora tertia legere in iiii. sni?arum et continuo illud velle pro illo tempore: an propterea mutor. eriam sole agente naturali semperstante in eodem loco: si nun producant unum illuminabile ei applicatum: ipsum illuminabit sine ulla mutatione in sole. Quo sit: deus immutabiliter vult a. creaturam esse, sed non inevitabiliter et necessario, sed primum: quia non est mutatio in deo que primus vult a. creaturam et postes nult, sed por tempore quo voluntas divia vult creaturam esse creatura est. nec op[erem] aliam causam querere quare deus vult nunc a. esse potius quam in alio tempore: aliam inquam a. voluntate dei que est prima causa sic volendi, indisciplinati est omnium querere rationem iiii. metaphis. principiorum demonstrationis non es demonstratio, sed in illis tanquem in principiis notis standum est, sic in contingentibus: alioquon esset processus in infinitum.
+        </p>
+        <p>
+          Ad octavum negetur maior: dico enim que deus ante creationem mundi erat in loco imaginario ubi totus iste mundus est et in spacio imaginario infinito extra hunc mundum et in illo adhuc est. secundum illud salomonicum, tertii Regum viii. Si enim celum et celi celorum te capere non possunt, quanto mag?domus hec quam edificavi tibi. Et de cristifers virgine canit ecclesia. Virgo dei genitrix quem totus non capit orbis. Et que sequuntur, hoc patet ex distinctione xxxvii primi.
+        </p>
+        <p>
+          Nono arguitur sit hoc instans in quo prima creatura, secundum a. est producta arguitur sic. a. nunc est, et prius non erat. Ergo datur tempus primus hoc instanti vel tempore.
+        </p>
+        <p>
+          et confirmatur hec ratio: Non esse a. creature diutius duravit quam suum esse, quia esse stat solum por breve tempus vel instans. Non esse fuit ab eterno.
+        </p>
+        <p>
+          Ad nonum, admisso casu: concedo has propsitiones. A. in hoc tempore vel instanti est et prius non erat. Secunda est negativa non ponens tempus, sed ex toto illo antecedente non sequitur. Ergo prius erat. Hoc est tempus prius erat. Illic ex negativa non pregnanti, nec impossibili infertur consequens contingens. modo talis illatio est nulla.
+        </p>
+        <p>
+          Ad confirmationem  respondetur, non curando de affiramtiva cuius subiectum supponit necne, sed ad intentionem argumenti nego quenon esse per longius tempus deravit quam ese istius a. por longius tempus possibile vel imaginarium, concedo. Sed ex ililia concessione nihil habere potes.
+        </p>
+        <p>
+          Undecimo arguitur res habet esse ce?ntie antequam habeat esse exstentia extra suam causam, et hoc esse h?m ab eterno: Igitur creature non creantur in tali esse. Maior p[arte]m alias non esset maior ratio quare una res pret esse quam figmentum ut chimera.
+        </p>
+        <p>
+          Et confirmatur hoc per Avicenna viii. metaphisice dicentem: quod res fluunt a deo non solum ut a creante, sed ut intelligente eas.
+        </p>
+        <p>
+          Respondetur: opinio est domini Henrici Ganden, quotlibeto viii. questione nona: quod res possibilis habem esse essentie antequam producatur. Et sic dicitur a ratitudine, si large capiatur res ut dicitur de reor reris: sic convenit figmentis que non habent tale esse. Dicit cum res est a deo cognita est exemplata, et per hoc habem verum esse reale quod est esse quidditativum et esse essentie, antequam res habeat esset existentie: oportet quod hoc esse essentie et quidditativum habeat, in omni creatura dicit est compositio ex esse essentie, et esse actualia existentie tanquam ex eterno et temporali constituentibus unum, quia unum est in potentia ad reliquum. secundum essentia ad existentiam, et secundum esse actualis existentie convenit rei creari de novo. Non autem secundum esse essentie et quidditativum quod est ab eterno quo distinguitur primo res a figmentis et impossibilibus que non sunt exemplata a deo.
+        </p>
+        <p>
+          Hec opinio est ita insulsa et isipidavt eius recitatio est eius sufficiens ejectio et explosio, propterea ea relicta, dico esse essentie et esse existentie convertuntur. res, essentia, et existentia, sunt idem. nec modus beati Thome de esse essentie nec esse quidditativum Henrici ullomodo mihi placent.
+        </p>
+        <p>
+          Ad Avicennam dico: ipse non intendit quod res habeat ullomodo aliquod esse reale antequam sint, sed fiuunt a deo ad bonum sensum. hoc est intelliguntur a deo et ab eo producuntur alique in esse existentie. nihil est producibile nisi possibile. capio possibile prime intentionaliter: et non quodlibem tale: sed quod deus efficacit vult esse. figmenta sunt impossibilis vel non sunt possibilia. ergo non creabilia. Nec aliam causam querere oportet. Si Avicenna aliud intelligeret negaretur primo u?bo.
+        </p>
+        <p>
+          Decimo tertio argumentum. Omne quod sit: sit ex subiecto presupposito. primo phisicorum, et septimo metaphisice. in primo phisicorum probat philosophus quod materia est ingenita: alioquin esset processus in infinitum. Similiter de tempore probare nititur viii. phisicorum et xii. metaphisice.
+        </p>
+        <p>
+          Respondetur: Aristoteles capit conlcusiones falsas probandas: et nihil probat. Non possent falsum probari esse ventur Argumenta in materia vel forma peccant ut notum est ex fide.
+        </p>
+        <p>
+          Quartodecimo arguitur: per illud quod scribit Ecclesiastes primo capite sui libri inquiens. Nihil sub sole novum, Nev valet quisquam dicere ecce hoc recens est.
+        </p>
+        <p>
+          Respondetur: ecclesiastes loquitur sicut contionator et disputator. Nunc loco stulti: nunc loco prudentis loquitur. et non ponit illud assertive de suo: sicut recte dicit glosa marginalis hunc passum exponens, iudas non pluries revertent. nec xp?m pluries tradidit. Oppositum dicere est geresis: nedum in lege dei: sed inter philosophos.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
